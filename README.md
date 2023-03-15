@@ -1,6 +1,6 @@
 Front-end mentor challenge interactive card-details form website created with react JS
 
-site url=>> http://bap-ssbm.github.io/interactive-card-details-form-reactjs
+site url=>> https://bap-ssbm.github.io/interactive-card-website/
 
 What I learned from this project:
 
