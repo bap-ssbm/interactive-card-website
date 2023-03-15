@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/interactive-card-website/static/js/main.78772c63.js",
-    "index.html": "/interactive-card-website/index.html",
-    "main.78772c63.js.map": "/interactive-card-website/static/js/main.78772c63.js.map"
+    "main.js": "/interactive-card-details-form-reactjs/static/js/main.78772c63.js",
+    "index.html": "/interactive-card-details-form-reactjs/index.html",
+    "main.78772c63.js.map": "/interactive-card-details-form-reactjs/static/js/main.78772c63.js.map"
   },
   "entrypoints": [
     "static/js/main.78772c63.js"
